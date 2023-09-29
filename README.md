@@ -73,6 +73,16 @@ Set userEmail
 <br>
 9 . git status  - this command is used to display the state of code, whether any file is changed or not
 <br>
+    Generally, when we are using git status, we can find four types of status
+<br>
+   . Untracked files - these are the file that are added on local, but not yet tracked by git
+   <br>
+   . Modified - these are the files which are already tracked by git, and its been modified now
+   <br>
+   . Staged - the files that are ready to be commited
+   <br>
+   . Unmodified  - these are the files that are not modified
+   <br>
 <br>
 10. git add .   -this command is used to add the changes that are done on files [to add all files we use this command]
 <br>
