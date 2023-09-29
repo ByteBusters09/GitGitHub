@@ -38,10 +38,26 @@ Set userEmail
  -   git config --global user.email "xyz@gmail.com"
 <br>
 <br>
-4. To permanently store passwork of github on system 
+4. To permanently store password of github on system 
 <br>
 <br>
 -  git config  credential.helper store
 <br>
+<br>
+5 . To check the configurations
+<br>
+<br>
+-  git config --list
+<br>
+[This will list out all the account with username and user email]
+<br>
+<br>
+6. git config is used for the configuration of the git , and configurations can be done by two methods - 
+   <br>
+   . --global   [means globally on a system]
+   <br>
+   . --local    [means for a particular project we are using a diffrent account]
+   <br>
+
 
 
