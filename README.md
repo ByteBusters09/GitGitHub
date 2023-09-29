@@ -58,6 +58,18 @@ Set userEmail
    <br>
    . --local    [means for a particular project we are using a diffrent account]
    <br>
-
+<br>
+7 . git clone
+<br>
+   -to copy the git project on local 
+<br>
+<br>
+8 . Two types of locations 
+<br>
+   . local [laptop or pc]
+<br>
+   . remote [ github ]
+<br>
+<br>
 
 
