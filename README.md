@@ -71,5 +71,13 @@ Set userEmail
    . remote [ github ]
 <br>
 <br>
-
-
+9 . git status  - this command is used to display the state of code, whether any file is changed or not
+<br>
+<br>
+10. git add .   -this command is used to add the changes that are done on files [to add all files we use this command]
+<br>
+<br>
+11. git add <fileName> - this command is use to add single file at a time.
+<br>
+<br>
+12 . 
