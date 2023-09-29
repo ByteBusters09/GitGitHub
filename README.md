@@ -99,4 +99,8 @@ Set userEmail
 14. git push   - this command is use to push all the changes to remote, once added and commited. or simply this command is used to upload local repo content to remote repo
 <br>
 <br>
+15.  git push origin main - this command is used when we have only one branch that is main ,here origin is a repository on github which we have cloned and started working.
+<br>
+<br>
+
 
