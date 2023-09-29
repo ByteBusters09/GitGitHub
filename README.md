@@ -80,4 +80,13 @@ Set userEmail
 11. git add <fileName> - this command is use to add single file at a time.
 <br>
 <br>
-12 . 
+12 . ls -a  - this command is used to list down all the files including hidden files
+<br>
+<br>
+13 .  git commit -m "message"    - this command is used to save the changes or takes the screenshots preceded by a message, that what actual change was done in the file
+<br>
+<br>
+14. git push   - this command is use to push all the changes to remote, once added and commited.
+<br>
+<br>
+
