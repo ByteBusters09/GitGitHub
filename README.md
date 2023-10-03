@@ -104,3 +104,58 @@ Set userEmail
 <br>
 
 
+
+# To use git in local, commands used are :
+# with help of these commands we can directly make repos on git
+
+<br>
+1. git init - this command is use to initialize a new git repository
+<br>
+2. mkdir <DirectoryName> - this command is used to make a new directory/folder/repository
+<br>
+3. ls -a    - by this command we can check, if our git repository is initialized or not, using this command gives us a .git folder.
+         <br>
+4. git status
+<br>
+5. git add .
+<br>
+6. git commit -m "message"
+<br>
+<br>
+
+#To upload our local project on github 
+<br>
+1. go to github account
+ <br>
+2. goto settings
+    <br>
+3. goto Repositories
+   <br>
+4. create a new repo with a suitable name
+   <br>
+5. create a new repo
+   <br>
+6. on local
+ <br>
+use commands
+<br>
+git remote add origin <link that was popped while creating a new repo> - origin is set on local
+<br>
+7 . git remote -v   - we will use this command to verify the remote
+   <br>
+8. git branch - this will show on which branch we are currently working
+   <br>
+9. git branch -M <branchName>  - to rename the existing branch
+    <br>
+10. git push -u origin main     ---- -u means upstream
+    <br>
+11. refresh on github will display the local changes in it.
+    <br>
+12. we can simply create a new README.md file on local as well
+    <br>
+13. git add .
+    <br>
+14. git commit -m "message"
+    <br>
+15 . git push
+    
