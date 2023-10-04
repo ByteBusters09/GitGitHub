@@ -158,4 +158,17 @@ git remote add origin <link that was popped while creating a new repo> - origin 
 14. git commit -m "message"
     <br>
 15 . git push
-    
+    <br>
+    <br>
+
+    # BRANCH COMMANDS
+    <br>
+1. git branch - this command will display the current branch that we are working on.
+   <br>
+2. git checkout -b <branchName> - with the help of thois command we will create a new branch .
+   <br>
+3 . git checkout <branchName> - with the help of this command we navigate through branches.
+   <br>
+4. git branch -d <branchName> - with the help of this command we delete the branch.
+   <br>
+5.
