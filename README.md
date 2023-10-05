@@ -171,4 +171,5 @@ git remote add origin <link that was popped while creating a new repo> - origin 
    <br>
 4. git branch -d <branchName> - with the help of this command we delete the branch.
    <br>
+  <br>
 5.
