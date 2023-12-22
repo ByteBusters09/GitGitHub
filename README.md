@@ -172,3 +172,29 @@ git remote add origin <link that was popped while creating a new repo> - origin 
 4. git branch -d <branchName> - with the help of this command we delete the branch.
    <br>
   <br>
+
+
+  <br>
+  <br>
+
+  Issues -
+  <br>
+  If we get error like this - 
+  <br>
+  git push -u origin master
+error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/ByteBusters09/Java.git'
+PS C:\Users\anjal\OneDrive\Desktop\Java\Java> git push -u origin main    
+To https://github.com/ByteBusters09/Java.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/ByteBusters09/Java.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+<br>
+Use Command -  git pull --rebase origin main 
+<br>
+<br>
+git log - this command is used to check the logs.
+<br>
